@@ -40,11 +40,15 @@ Super_Бобры
 
 ## Ссылка на доступное демо или видео-демонстрацию
 
-Демо и запись готовятся к публикации с синтетическими данными. Локальный адрес http://127.0.0.1:8765 подходит для демонстрации на компьютере команды, но не для вставки в заявку. После публикации вставить ссылку из `publication.md` и проверить доступ организаторам.
+https://osnovanie-super-bobry.bu-rchfieldadams12.chatgpt.site
+
+Публичный доступ открыт по разрешению команды. Видео: https://osnovanie-super-bobry.bu-rchfieldadams12.chatgpt.site/demo.webm . Статус публикации и перечень материалов указаны в `publication.md`.
 
 ## Ссылка на презентацию
 
-Файл презентации расположен в `pitch/`. После размещения на доступном организаторам облачном диске вставить ссылку из `publication.md`. Локальный путь не является ссылкой для загрузки решения.
+https://osnovanie-super-bobry.bu-rchfieldadams12.chatgpt.site/osnovanie.pdf
+
+Редактируемый вариант: https://osnovanie-super-bobry.bu-rchfieldadams12.chatgpt.site/osnovanie.pptx . Исходники: https://github.com/Asteroid-Destroyer777/osnovanie-super-bobry . Аналитика: https://osnovanie-super-bobry.bu-rchfieldadams12.chatgpt.site/analytics.zip . Эти две ссылки также использовать при загрузке решения в конце спринта.
 
 ## Первичная оценка ценности
 
